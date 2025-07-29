@@ -1,4 +1,4 @@
-# Confirmation Modal – React + TypeScript + Vite
+# Confirmation Modal –
 
 This project demonstrates a simple confirmation modal built with **React**, **TypeScript**, and **Vite**. The modal uses Tailwind CSS for styling and provides a basic UI for confirming or canceling a destructive action.
 
